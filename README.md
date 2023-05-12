@@ -12,5 +12,5 @@ docker build -t aqi
 ```
 - To run the image:
 ```
-docker run -d -p 8000:8000 aqi_ml
+docker run -d -p 8000:8000 aqi
 ```
