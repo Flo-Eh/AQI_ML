@@ -61,7 +61,7 @@ def prediction(item:station):
       
     #prediction
     y_pred = list(model.predict(X_test))
-    
+    #get AQI Bucket
     bucket=[]
     for items in y_pred:
         a = get_AQI_bucket(items)
