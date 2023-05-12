@@ -1,5 +1,5 @@
 # AQI_ML
-
+## This project allow to predict the AQI of a selected station
 - First the data should be downloaded via the following link: 
 https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india?select=station_hour.csv
 - Data should be extracted in the Data folder
